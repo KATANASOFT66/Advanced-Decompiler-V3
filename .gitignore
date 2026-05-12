@@ -1,1 +1,1 @@
-Nothing needs to be added to .gitignore for this change. The file 'usage.luau' appears to be a source code file that should be tracked in version control.
+Nothing should be ignored based on the provided file changes. The added file `localconneter.luau` appears to be a source code file that should be tracked in version control, and there are no build artifacts, dependencies, or temporary files in the change list that would warrant adding to .gitignore.
